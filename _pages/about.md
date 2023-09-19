@@ -2,25 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We are PR-VSL team, based in HCMC, Vietnam. Our team is driven by a shared passion for pioneering research at the intersection of cutting-edge technology and real-world applications. With a strong foundation in diverse fields, we specialize in a range of research areas, including affective analysis with a particular emphasis on video and biological signals.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In addition to our work in affective analysis, we are deeply committed to advancing the field of artificial intelligence in healthcare. By harnessing the power of AI, we aim to revolutionize the healthcare sector, making diagnoses more precise, treatments more effective, and patient care more accessible.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+But our aspirations don't stop there. We are equally enthusiastic about exploring the potential of AI in various industry applications, where we strive to develop innovative solutions that drive efficiency, enhance productivity, and transform the way businesses operate.
+
+At PR-VSL, we are united by a shared vision of leveraging technology to improve lives and industries. Join us on this exciting journey as we delve into groundbreaking research, push the boundaries of what's possible, and work tirelessly to make a positive impact on the world.
