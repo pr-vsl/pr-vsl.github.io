@@ -12,7 +12,7 @@ nav_order: 1
 
 <ol class=space_list>
 
-  <li> Huỳnh Văn Thống, PhD. </li>
+  <li> To be updated. </li>
 
 </ol>
 {% enddetails %}
