@@ -6,12 +6,8 @@ description:
 nav: true
 nav_order: 1000
 ---
-{:.no_toc}
 
-1. TOC
-{:toc}
-
-{% details Lead %}
+{% details Leads %}
 
 <ol class=space_list>
 
