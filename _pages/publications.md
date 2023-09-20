@@ -19,8 +19,7 @@ Integrated Design and Process Science</i></font>, Vol. 26, no. 2, pp. 159-181, 2
 
 <li>Huynh Van Thong, Hyung-Jeong Yang, Guee-Sang Lee, Soo Hyung Kim, “End-to-End Learning for Multimodal Emotion Recognition in Video with Adaptive Loss,” <font color="ff00ff"><i>IEEE MultiMedia</i></font>, Vol. 28, No. 2, pp. 59-66, April-June 2021. (2021 IF: 5.633, JCR10%). </li>
 
-<li>Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Semantic Segmentation of the Eye with a Lightweight Deep Network and Shape Correction,"
-<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 8, pp. 131967-131974, July 2020. (2020 IF: 3.367).
+<li>Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Semantic Segmentation of the Eye with a Lightweight Deep Network and Shape Correction," <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 8, pp. 131967-131974, July 2020. (2020 IF: 3.367).
 </li>
 
 </ol>
