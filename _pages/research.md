@@ -3,8 +3,7 @@ layout: page
 permalink: /research/
 title: research
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+nav_order: 3
 description:
 ---
 {:.no_toc}

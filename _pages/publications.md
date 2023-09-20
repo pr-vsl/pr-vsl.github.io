@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /publication/
+title: publication
 description:
 nav: true
-nav_order: 1
+nav_order: 4
 ---
 
 
-{% details SCI Journal %}
+{% details Journal %}
 
 <ol class=space_list>
 
