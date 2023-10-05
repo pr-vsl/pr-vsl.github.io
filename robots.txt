@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: / 
+Disallow: 
 
 Sitemap: https://pr.ai.vn/sitemap.xml
