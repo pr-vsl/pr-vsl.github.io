@@ -176,6 +176,9 @@ collections:
   projects:
     output: false
     permalink: /projects/:path/
+  members:
+    output: true
+    permalink: /members/:path/
 
 announcements:
   enabled: true
@@ -233,6 +236,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-redirect-from
 
 # Sitemap settings
 defaults:
@@ -265,8 +269,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Huynh]
+  first_name: [Van Thong]
 
   style: apa
   locale: en
