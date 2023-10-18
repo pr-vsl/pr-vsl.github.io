@@ -6,7 +6,7 @@ importance: 1
 redirect_from: /vthuynh/
 ---
 
-<div id="adobe-dc-view" style="width: 960px;"></div>
+<div id="adobe-dc-view" ></div>
 <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){
