@@ -1,6 +1,6 @@
 ---
 layout: meminfo
-title: PRVSL - Huỳnh Văn Thống
+title: VT Huynh
 description:
 importance: 1
 redirect_from: /vthuynh/
