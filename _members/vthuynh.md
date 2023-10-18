@@ -13,7 +13,7 @@ redirect_from: /vthuynh/
 		var adobeDCView = new AdobeDC.View({clientId: "750104b300e14308aa0af8c1af5dea8e", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "/assets/pdf/members/vthuynh.pdf"}},
-			metaData:{fileName: "vthuynh.pdf"}
-		}, {});
+			metaData:{fileName: "VT Huynh Info"}
+		}, {embedMode: "IN_LINE"});
 	});
 </script>
