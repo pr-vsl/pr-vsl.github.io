@@ -29,7 +29,7 @@ Integrated Design and Process Science</i></font>, Vol. 26, no. 2, pp. 159-181, 2
 
 <ol class=space_list>
 
-<li>Ngoc Tu Vu, Van Thong Huynh and Soo-Hyung Kim, "Multiscale Transformer-based for Multimodal Affective States Estimation from Physiological Signals," <i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023), Kitakyushu, Japan, Nov. 2023. </li>
+<li>Ngoc Tu Vu, Van Thong Huynh and Soo-Hyung Kim, "Multiscale Transformer-based for Multimodal Affective States Estimation from Physiological Signals," <font color="ff00ff"><i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023)</font>, Kitakyushu, Japan, Nov. 2023. </li>
 
 <li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim, "Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. </li>
 
@@ -51,7 +51,7 @@ Integrated Design and Process Science</i></font>, Vol. 26, no. 2, pp. 159-181, 2
 <li>Van Thong Huynh, Soo-Hyung Kim, Guee-Sang Lee, Hyung-Jeong Yang, "Eye Semantic Segmentation with A Lightweight Model," <font color="ff00ff"><i>Proc. 2019 IEEE Int. Conf. Computer Vision Workshop - Eye Tracking for VR and AR </i>(ICCVW 2019)</font>, pp. 3704-3707, Seoul, Korea, Nov. 2019.
 </li>
 
-<li>Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Engagement Intensity Prediction with Facial Behavior Features," <i>Proc. 2019 ACM Int. Conf. Multimodal Interaction</i>(ICMI 2019), pp. 567-571, Suzhou, China, Oct. 2019. </li>
+<li>Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Engagement Intensity Prediction with Facial Behavior Features," <font color="ff00ff"><i>Proc. 2019 ACM Int. Conf. Multimodal Interaction</i>(ICMI 2019)</font>, pp. 567-571, Suzhou, China, Oct. 2019. </li>
 
 </ol>
 {% enddetails %}
