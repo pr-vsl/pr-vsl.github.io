@@ -11,7 +11,7 @@ nav_order: 1000
 
 <ol class=space_list>
 
-  <li> Huỳnh Văn Thống, Ph.D.</li>
+  <li><a href="/vthuynh">Huỳnh Văn Thống, PhD</a></li>
 
 </ol>
 {% enddetails %}
