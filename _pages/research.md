@@ -46,6 +46,25 @@ description:
     Team **SML**: _Van-Thong Huynh_, _Soo-Hyung Kim_, Guee-Sang Lee, Hyung-Jeong Yang.
 {% enddetails %}
 ---
-### Video analysis and understanding
+### AI for healthcare
+{% details Here are some topics that we are working on %}
 
-> To be updated
+* Clinical data analysis for Rapid Response System.
+
+* Diagnosis/Survival analysis with medical imaging.
+
+* ...
+
+{% enddetails %}
+
+---
+### AI for industrial
+{% details Here are some topics that we are working on %}
+
+* Battery industry: battery life cycle prediction, battery cell defects detection.
+
+* Energies industry:energy demand forecasting, ...
+
+* ...
+
+{% enddetails %}
