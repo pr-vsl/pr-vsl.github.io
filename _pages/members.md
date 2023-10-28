@@ -11,7 +11,7 @@ nav_order: 1000
 
 <ol class=space_list>
 
-  <li><a href="/vthuynh">Huỳnh Văn Thống, PhD</a></li>
+  <li><a href="/vthuynh" target="_blank">Huỳnh Văn Thống, PhD</a></li>
 
 </ol>
 {% enddetails %}
@@ -19,6 +19,7 @@ nav_order: 1000
 {% details Collaborators %}
 
 <ol class=space_list>
+    <li><a href="https://honghai-nguyen.netlify.app" target="_blank">Nguyễn Hồng Hải</a></li>
     <li> To be updated </li>
 </ol>
 {% enddetails %}
