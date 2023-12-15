@@ -31,7 +31,7 @@ Integrated Design and Process Science</i></font>, Vol. 26, no. 2, pp. 159-181, 2
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang and Soo-Hyung Kim, <a href="https://link.springer.com/chapter/10.1007/978-3-031-47665-5_10" target="_blank">"Multiscale Transformer-Based for Multimodal Affective States Estimation from Physiological Signals"</a>, <font color="ff00ff"><i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023)</font>, Lecture Notes in Computer Science (Springer), vol 14408, pp. 113-122, Kitakyushu, Japan, Nov. 2023. </li>
 
-<li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim, "Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation," <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. </li>
+<li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim,  <a href="https://proceedings.bmvc2023.org/806/" target="_blank">"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation"</a>, <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. </li>
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang, Soo-Hyung Kim, Shah Nawaz, Karthik Nandakumar, M. Zaigham Zaheer, <a href="https://dl.acm.org/doi/10.1145/3581783.3612857" target="_blank">“DCTM: Dilated Convolutional Transformer Model for Multimodal Engagement Estimation in Conversation”</a>, <i><font color="ff00ff">Proc. 31st ACM Int. Conf. Multimedia</font></i>, pp.  9521–9525, Ottawa, Canada, Oct. 2023. </li>
 
