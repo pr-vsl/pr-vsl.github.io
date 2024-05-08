@@ -1,6 +1,6 @@
 ---
 layout: meminfo
-permalink: /join-us/
+permalink: 
 title: join us
 nav_order: 100000
 nav: true
