@@ -3,7 +3,7 @@ layout: meminfo
 permalink: 
 title: join us
 nav_order: 100000
-nav: true
+nav: false
 email: thonghv4@fe.edu.vn
 ---
 
