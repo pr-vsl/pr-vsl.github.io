@@ -11,6 +11,11 @@ nav_order: 4
 {% details Journal %}
 
 <ol class=space_list>
+<li>Nicholas A Coles, Bartosz Perz, Maciej Behnke, Johannes C. Eichstaedt, Soo-Hyung Kim, Tu N Vu, Chirag Raman, Julian Tejada, Van Thong Huynh, et al., "Big team science reveals promises and limitations of machine learning efforts to model the physiological basis of affective experience", <font color="ff00ff"><i>Journal Submitted, 2024.</i></font> </li>
+  
+<li> Ngoc Tu Vu, Van Thong Huynh, Seung Won Kim, Ji Eun Shin, Hyung-Jeong Yang, Soo-Hyung Kim, "Dynamic Allocation Fusion for Continuous Emotion Detection from Multiple Physiological Signals", <font color="ff00ff"><i>Journal Submitted, 2024.</i></font> </li>
+
+<li>Van Thong Huynh, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim, "Multilevel Spatial-Temporal Feature Analysis for Generic Event Boundary Detection in Videos", <font color="ff00ff"><i>Journal Submitted, 2024.</i></font> </li>
 
 <li> Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, <a href="https://www.sciencedirect.com/science/article/abs/pii/S016786552300199X" target="_blank">"Prediction of Evoked Expression from Videos with Temporal Position Fusion"</a>, <font color="ff00ff"><i>Pattern Recognition Letters</i></font>, Vol. 172, pp. 245-251, August 2023. (2023 IF: 5.1). </li>
 
