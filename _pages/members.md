@@ -11,7 +11,7 @@ nav_order: 1000
 
 <ol class=space_list>
 
-  <li><a href="/vthuynh" target="_blank">Huỳnh Văn Thống, PhD</a></li>
+  <li><a href="https://scholar.google.com/citations?user=sEMY7OoAAAAJ" target="_blank">Huỳnh Văn Thống, PhD</a></li>
 
 </ol>
 {% enddetails %}
