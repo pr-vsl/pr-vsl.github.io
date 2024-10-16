@@ -17,7 +17,7 @@ We are **PR-VSL team**, based in FPT University HCMC, Vietnam. Our team is drive
 
 In addition to our work in affective analysis, we are deeply committed to advancing the field of artificial intelligence in healthcare. By harnessing the power of AI, we aim to revolutionize the healthcare sector, making diagnoses more precise, treatments more effective, and patient care more accessible.
 
-If you are interested in joining our group, please check [join us](/join-us) page. For collaboration, please reach out via <a href="mailto:{{ page.email | encode_email }}"><i class="fas fa-envelope"></i> thonghv4Xfe.edu.vn </a> (where X is @) with Subject **[prvsl-collab] Your own title**.
+
 
 <iframe class="embed-responsive" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.6099415310746!2d106.80730271034678!3d10.84113285795281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752731176b07b1%3A0xb752b24b379bae5e!2sFPT%20University%20HCMC!5e0!3m2!1sen!2s!4v1697552574646!5m2!1sen!2s" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
