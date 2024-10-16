@@ -19,13 +19,14 @@ nav_order: 1000
 {% details Collaborators %}
 
 <ol class=space_list>
-    <li><a href="https://honghai-nguyen.netlify.app" target="_blank">Nguyễn Hồng Hải</a></li>
+    <li><a href="https://sites.google.com/site/trtanh1988/" target="_blank">Trần Tuấn Anh, Ph.D.</a></li>
     <li> To be updated </li>
 </ol>
 {% enddetails %}
 
 {% details Members %}
 <ol class=space_list>
+    <li><a href="https://honghai-nguyen.netlify.app" target="_blank">Nguyễn Hồng Hải</a></li>
     <li> To be updated </li>
 </ol>
 {% enddetails %}
