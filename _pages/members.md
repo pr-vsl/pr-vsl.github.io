@@ -28,6 +28,7 @@ nav_order: 1000
 {% details Members %}
 <ol class=space_list>
     <li><a href="https://honghai-nguyen.netlify.app" target="_blank">Nguyễn Hồng Hải</a></li>
+    <li><a href="/member/" target="_blank">Nguyễn Quốc Tiến</a></li>
     <li> To be updated </li>
 </ol>
 {% enddetails %}
