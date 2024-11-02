@@ -19,7 +19,6 @@ nav_order: 1000
 {% details Collaborators %}
 
 <ol class=space_list>
-    <li><a href="https://sites.google.com/site/trtanh1988/" target="_blank">Trần Tuấn Anh, Ph.D.</a></li>
     <li><a href="https://scholar.google.com/citations?user=wKyLVp0AAAAJ&hl=en" target="_blank">Vũ Ngọc Tú</a></li>
     <li> To be updated </li>
 </ol>
