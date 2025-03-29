@@ -13,7 +13,7 @@ nav_order: 4
 <ol class=space_list>
 <li>Nicholas A Coles, Bartosz Perz, Maciej Behnke, Johannes C. Eichstaedt, Soo-Hyung Kim, Tu N Vu, Chirag Raman, Julian Tejada, Van Thong Huynh, et al., "Big team science reveals promises and limitations of machine learning efforts to model the physiological basis of affective experience", <font color="ff00ff"><i>Journal Submitted, 2024.</i></font> </li>
   
-<li> Ngoc Tu Vu, Van Thong Huynh, Seung Won Kim, Ji Eun Shin, Hyung-Jeong Yang, Soo-Hyung Kim, "Switch Fusion for Continuous Emotion Estimation from Multiple Physiological Signals", <font color="ff00ff"><i>Biomedical Signal Processing and Control, 2025, accepted.</i></font> </li>
+<li> Ngoc Tu Vu, Van Thong Huynh, Seung Won Kim, Ji Eun Shin, Hyung-Jeong Yang, Soo-Hyung Kim, <a href="https://www.sciencedirect.com/science/article/pii/S1746809425003428" target="_blank">"Switch Fusion for Continuous Emotion Estimation from Multiple Physiological Signals"</a>, <font color="ff00ff"><i>Biomedical Signal Processing and Control, 172 (2025) 107831.</i></font> </li>
 
 <li>Van Thong Huynh, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim, "Multilevel Spatial-Temporal Feature Analysis for Generic Event Boundary Detection in Videos", <font color="ff00ff"><i>Journal Submitted, 2024.</i></font> </li>
 
