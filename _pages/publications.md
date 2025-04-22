@@ -9,7 +9,7 @@ nav_order: 4
 
 
 {% details Journal %}
-
+<summary>
 <ol class=space_list>
 <li>Nicholas A Coles, Bartosz Perz, Maciej Behnke, Johannes C. Eichstaedt, Soo-Hyung Kim, Tu N Vu, Chirag Raman, Julian Tejada, Van Thong Huynh, et al., "Big team science reveals promises and limitations of machine learning efforts to model the physiological basis of affective experience", <font color="ff00ff"><i>Journal Submitted, 2024.</i></font> </li>
   
@@ -28,10 +28,12 @@ Integrated Design and Process Science</i></font>, Vol. 26, no. 2, pp. 159-181, 2
 </li>
 
 </ol>
+</summary>
+
 {% enddetails %}
 
 {% details Conference %}
-
+<summary>
 <ol class=space_list>
 
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang and Soo-Hyung Kim, <a href="https://link.springer.com/chapter/10.1007/978-3-031-47665-5_10" target="_blank">"Multiscale Transformer-Based for Multimodal Affective States Estimation from Physiological Signals"</a>, <font color="ff00ff"><i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023)</font>, Lecture Notes in Computer Science (Springer), vol 14408, pp. 113-122, Kitakyushu, Japan, Nov. 2023. </li>
@@ -59,7 +61,15 @@ Integrated Design and Process Science</i></font>, Vol. 26, no. 2, pp. 159-181, 2
 <li>Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, <a href="https://dl.acm.org/doi/abs/10.1145/3340555.3355714" target="_blank">"Engagement Intensity Prediction with Facial Behavior Features"</a>, <font color="ff00ff"><i>Proc. 2019 ACM Int. Conf. Multimodal Interaction</i>(ICMI 2019)</font>, pp. 567-571, Suzhou, China, Oct. 2019. </li>
 
 </ol>
+</summary>
 {% enddetails %}
 
 {% details Patent %}
+<summary>
+<ol class=space_list>
+  
+<li>Kim, S. H., Lee, G. S., Yang, H. J., Huynh, V. T., & Oh, A. R. (2021), <a href="https://doi.org/10.8080/1020190089540" target="_blank"> "Apparatus and Method for Identifying Emotion by Gaze Movement Analysis"</a>, <font color="ff00ff"> Korea Patent Registration Number: 10‑2204743</font>. Technology transfer: MayfarmSoft ‑ September 2020.</li>
+
+</ol>
+</summary>
 {% enddetails %}
