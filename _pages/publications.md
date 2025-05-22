@@ -10,7 +10,7 @@ nav_order: 4
 
 {% details Journal %}
 <ol class=space_list>
-<li>Nicholas A Coles, Bartosz Perz, Maciej Behnke, Johannes C. Eichstaedt, Soo-Hyung Kim, Tu N Vu, Chirag Raman, Julian Tejada, Van Thong Huynh, et al., "Big team science reveals promises and limitations of machine learning efforts to model the physiological basis of affective experience", <font color="ff00ff"><i>Accepted, 2025.</i></font> </li>
+<li>Nicholas A Coles, Bartosz Perz, Maciej Behnke, Johannes C. Eichstaedt, Soo-Hyung Kim, Tu N Vu, Chirag Raman, Julian Tejada, Van Thong Huynh, et al., <a href="https://doi.org/10.1098/rsos.241778" target="_blank">"Big team science reveals promises and limitations of machine learning efforts to model the physiological basis of affective experience"</a>, <font color="ff00ff"><i>Royal Society Open Science, 12 (2025) 241778.</i></font> </li>
   
 <li> Ngoc Tu Vu, Van Thong Huynh, Seung Won Kim, Ji Eun Shin, Hyung-Jeong Yang, Soo-Hyung Kim, <a href="https://www.sciencedirect.com/science/article/pii/S1746809425003428" target="_blank">"Switch Fusion for Continuous Emotion Estimation from Multiple Physiological Signals"</a>, <font color="ff00ff"><i>Biomedical Signal Processing and Control, 172 (2025) 107831.</i></font> </li>
 
