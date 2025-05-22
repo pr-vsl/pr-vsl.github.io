@@ -17,8 +17,8 @@ nav_order: 1000
 {% enddetails %}
 
 {% details Collaborators %}
-
 <ol class=space_list>
+    <li><a href="https://scholar.google.com/citations?user=kl6Sz_wAAAAJ&hl=en" target="_blank">Nguyễn Trọng Nghĩa, PhD</a></li>
     <li><a href="https://scholar.google.com/citations?user=wKyLVp0AAAAJ&hl=en" target="_blank">Vũ Ngọc Tú</a></li>
     <li> To be updated </li>
 </ol>
