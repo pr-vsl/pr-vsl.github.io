@@ -179,6 +179,9 @@ collections:
   members:
     output: true
     permalink: /members/:path/
+  papers:
+    output: true
+    permalink: /papers/:path/
 
 announcements:
   enabled: true
