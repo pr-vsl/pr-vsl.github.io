@@ -181,7 +181,7 @@ collections:
     permalink: /members/:path/
   papers:
     output: true
-    permalink: /papers/:path/
+    permalink: /publication/:path/
 
 announcements:
   enabled: true
