@@ -10,7 +10,7 @@ nav_order: 4
 
 {% details Journal %}
 <ol class=space_list>
-<li>Van Thong Huynh, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim, "Multilevel Spatial-Temporal Feature Analysis for Generic Event Boundary Detection in Videos", <font color="ff00ff"><i>Computer Vision and Image Understanding, accepted, 2025.</i></font> </li>
+<li>Van Thong Huynh, Seungwon Kim, Hyung-Jeong Yang, Soo-Hyung Kim, <a href="https://doi.org/10.1016/j.cviu.2025.104429" target="_blank">"Multilevel Spatial-Temporal Feature Analysis for Generic Event Boundary Detection in Videos"</a>, <font color="ff00ff"><i>Computer Vision and Image Understanding, 2025.</i></font> </li>
   
 <li>Trong-Nghia Nguyen, Soo-Hyung Kim, Bo-Gun Kho, Van-Thien Luong, Hong-Hai Nguyen, Van Thong Huynh, <a href="/">"AI-Driven Early Warning Systems in Emergency Care: Implementing a Multi-Gradient Network for Real-Time Clinical Deterioration Prediction"</a>, <font color="ff00ff"><i>Journal Submitted, 2025.</i></font> </li>
 
