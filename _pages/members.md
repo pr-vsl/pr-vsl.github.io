@@ -18,7 +18,7 @@ nav_order: 1000
 
 {% details Collaborators %}
 <ol class=space_list>
-    <li><a href="https://fda.neu.edu.vn/fda-members/nguyen-trong-nghia/" target="_blank">Nguyễn Trọng Nghĩa, PhD</a></li>
+    <li><a href="https://nghianguyen7171.github.io" target="_blank">Nguyễn Trọng Nghĩa, PhD</a></li>
     <li><a href="https://scholar.google.com/citations?user=wKyLVp0AAAAJ&hl=en" target="_blank">Vũ Ngọc Tú</a></li>
     <li> To be updated </li>
 </ol>
