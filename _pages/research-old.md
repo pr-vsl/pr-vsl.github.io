@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /research-old/
 title: research
 nav: false
 nav_order: 3
