@@ -12,7 +12,7 @@ cover: true
 email: nomail@nomail.edu.vn
 ---
 
-We are *Causal Perception and Reasoning* research group based in HCMC, Vietnam. Our group's mission is built on a simple but powerful premise: true AI must move beyond correlation-based Perception (recognizing *what* is in the data) to achieve genuine *Causal Reasoning* (understanding *why* it happens). This focus on causality is the common thread that connects our diverse research areas. We don't just build models that see; we build models that understand.
+We are *Causal Perception and Reasoning* research group based in HCMC, Vietnam. Our group's mission is built on a simple but powerful premise: true AI must move beyond correlation-based Perception (recognizing *what* is in the data) to achieve *Causal Reasoning* (understanding *why* it happens). This focus on causality is the common thread that connects our diverse research areas. We don't just build models that see; we build models that understand.
 
 Here is a concise, keypoint-driven version of your research pillars.
 
