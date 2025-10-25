@@ -12,9 +12,10 @@ cover: true
 email: nomail@nomail.edu.vn
 ---
 
+We are *Causal Perception and Reasoning* research group based in HCMC, Vietnam. Our group's mission is built on a simple but powerful premise: true AI must move beyond correlation-based Perception (recognizing *what* is in the data) to achieve genuine *Causal Reasoning* (understanding *why* it happens). This focus on causality is the common thread that connects our diverse research areas. We don't just build models that see; we build models that understand.
 
-We are **PR-VSL team**, based in HCMC, Vietnam. Our team is driven by a shared passion for pioneering research at the intersection of cutting-edge technology and real-world applications. With a strong foundation in diverse fields, we specialize in a range of research areas, including affective analysis with a particular emphasis on video and biological signals.
-
-In addition to our work in affective analysis, we are deeply committed to advancing the field of artificial intelligence in healthcare. By harnessing the power of AI, we aim to revolutionize the healthcare sector, making diagnoses more precise, treatments more effective, and patient care more accessible.
+We are actively growing and seeking passionate collaborators to build the future of causal AI.
+* Prospective Students (PhD, Master, UG): [Join us](/join-us) if you're driven to explore the "why" behind AI, not just the "what".
+* Academic Partners: Let's collaborate on fundamental research and solve real-world challenges in [healthcare, document AI, and video understanding](/research).
 
 
