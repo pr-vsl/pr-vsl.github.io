@@ -41,7 +41,7 @@ Here is a concise, keypoint-driven version of your research pillars.
       
 We are actively growing and seeking passionate collaborators to build the future of causal AI.
 
-* Prospective Students (PhD, Master, UG): [Join us](/join-us) if you're driven to explore the "why" behind AI, not just the "what".
+* Prospective Students (PhD, Master, UG): [Join us](/join-us) if you're driven to explore the *why* behind AI, not just the *what*.
 * Academic Partners: Let's collaborate on fundamental research and solve real-world challenges in [healthcare, document AI, and video understanding](/research).
 
 
