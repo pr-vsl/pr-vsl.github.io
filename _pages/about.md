@@ -33,7 +33,7 @@ We are *Causal Perception and Reasoning* research group based in HCMC, Vietnam. 
 
 4.  **Foundations of Causal Reasoning**
     * Develop novel **neuro-symbolic** architectures that bridge perception and logic.
-    * Build models capable of **counterfactual reasoning** ("what-if" scenarios).
+    * Build models capable of **counterfactual reasoning** (*what-if* scenarios).
     * Design new algorithms for **causal discovery** from complex data like video.
 
       
