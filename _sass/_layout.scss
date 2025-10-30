@@ -39,7 +39,9 @@ body.sticky-bottom-footer {
   width: 100%;
   aspect-ratio: 16 / 9; /* Common for video */
   height: auto; /* Ensures height scales correctly */
+  display: block; /* Ensures margin auto works */
   border: 0; /* Optional: removes default border */
+  
 }
 
 /******************************************************************************
