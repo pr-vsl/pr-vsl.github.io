@@ -16,30 +16,32 @@ We are *Causal Perception and Reasoning* research group based in HCMC, Vietnam. 
 
 Our Core Research
 
-1.  Causal Emotion & Video Understanding
-    * Go beyond *what* emotion is shown to understand *why* it's happening.
-    * Model the *causal triggers* for emotional responses in videos.
-    * Analyze the *causal influence* one person's expression has on another.
+1.  Causal Video Understanding
+    * Go beyond *what* is happening in a video to understand *why* it's happening.
+    * Employ VLMs to perceive and "ground" raw video into a stream of textual events, actions, and expressions.
+    * Employ LLMs and causal frameworks to reason about the causal triggers and dynamics that connect these events.
+    * Analyze causal chains in complex scenes, from social interactions to abnormal event detection.
 
-2.  Document Image Analysis & Understanding
-    * Treat documents as logical, structured artifacts, not just pixels.
-    * Infer the *causal structure* and *why* a layout is designed in a certain way.
-    * Model the logical and causal relationships between text, tables, and figures.
-
-3.  AI in Healthcare
+2.  Causal Document Intelligence
+    * Use VLMs to understand document layout and structure as a causal graph.
+    * Employ LLMs to reason over the semantic content of extracted information.
+    * Infer the *logical* and *causal relationships* between text, tables, and figures.
+      
+3.  Causal AI in Healthcare
     * Focus on *causal inference* for trustworthy, safe medical diagnostics.
-    * Identify true *causal biomarkers* for diseases from images and patient data.
-    * Separate disease *causes* from mere *correlations* to improve diagnostic accuracy.
+    * Apply VLMs to find causal biomarkers in medical images (X-rays, MRIs) by linking them to clinical notes.
+    * Use LLMs to extract causal insights from electronic health records (EHRs).
 
-4.  Foundations of Causal Reasoning
+4.  Foundations of Causal LLMs & Neuro-Symbolic AI
+    * Investigate the *causal reasoning capabilities* (and failures) of LLMs and VLMs.
     * Develop novel *neuro-symbolic* architectures that bridge perception and logic.
-    * Build models capable of *counterfactual reasoning* (*what-if* scenarios).
-    * Design new algorithms for *causal discovery* from complex data like video.
+    * Build models capable of *counterfactual reasoning* (*what-if* scenarios) by augmenting LLM.
+    * Develop new neuro-symbolic architectures that integrate large models (neuro) with formal causal logic (symbolic).
 
       
 We are actively growing and seeking passionate collaborators to build the future of causal AI.
 
 * Prospective Students (PhD, Master, UG): [Join us](/join-us) if you're driven to explore the *why* behind AI, not just the *what*.
-* Academic Partners: Let's collaborate on fundamental research and solve real-world challenges in [healthcare, document AI, and video understanding](/research).
+* Academic Partners: Let's collaborate on fundamental research and solve real-world challenges in [Video understanding, Document Intelligence, Healthcare](/research).
 
 
