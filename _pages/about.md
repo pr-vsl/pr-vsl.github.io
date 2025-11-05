@@ -29,7 +29,7 @@ Our Core Research
       
 3.  Causal AI in Healthcare
     * Focus on *causal inference* for trustworthy, safe medical diagnostics.
-    * Apply VLMs to find causal biomarkers in medical images (X-rays, MRIs) by linking them to clinical notes.
+    * Apply VLMs to find causal biomarkers in medical images by linking them to clinical notes.
     * Use LLMs to extract causal insights from electronic health records (EHRs).
 
 4.  Foundations of Causal LLMs & Neuro-Symbolic AI
