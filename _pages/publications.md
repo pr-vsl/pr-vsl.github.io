@@ -34,6 +34,10 @@ Integrated Design and Process Science</i></font>, Vol. 26, no. 2, pp. 159-181, 2
 {% details Conference %}
 <ol class=space_list>
 
+<li>Phuc Thanh Danh Nguyen, Nhu Tinh Anh Nguyen, Hong Tai Tran, Van Thong Huynh, Tuan-Anh Tran and Xuan Toan Mai, <a href="https://link.springer.com/chapter/10.1007/978-981-95-3355-8_31" target="_blank">"ChartLite: Simplified End-to-End Extraction of Chart Data for Enhanced Visual Understanding</a>, <i>International Conference on Intelligent Systems and Data Science</i>, Communications in Computer and Information Science (Springer), vol 2713, pp. 429–443, Oct. 2025. </li>
+
+<li>Dang Hien Long Tran, Ho Duc An Nguyen, Van Thong Huynh, Tuan-Anh Tran, Xuan Toan Mai and Hong Tai Tran, <a href="https://link.springer.com/chapter/10.1007/978-981-95-3355-8_30" target="_blank">"Enhanced Chart Detection in Document Images with Segmentation Backbone</a>, <i>International Conference on Intelligent Systems and Data Science</i>, Communications in Computer and Information Science (Springer), vol 2713, pp. 414–428, Oct. 2025. </li>
+
 <li>Ngoc Tu Vu, Van Thong Huynh, Hyung-Jeong Yang and Soo-Hyung Kim, <a href="https://link.springer.com/chapter/10.1007/978-3-031-47665-5_10" target="_blank">"Multiscale Transformer-Based for Multimodal Affective States Estimation from Physiological Signals"</a>, <font color="ff00ff"><i>Proc. 2023 Asian Conference on Pattern Recognition</i> (ACPR 2023)</font>, Lecture Notes in Computer Science (Springer), vol 14408, pp. 113-122, Kitakyushu, Japan, Nov. 2023. </li>
 
 <li>Nguyen Quang Vinh, Van Thong Huynh, Soo-Hyung Kim,  <a href="https://proceedings.bmvc2023.org/806/" target="_blank">"Adapt Distinct Semantics for Uncertain Areas in Polyp Segmentation"</a>, <i><font color="ff00ff">Proc. 2023 Britich Machine Vision Conference</font></i> (BMVC 2023), Aberdeen,  UK, Nov. 2023. </li>
