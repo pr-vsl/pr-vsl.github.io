@@ -31,8 +31,13 @@ Our Core Research
     * Focus on *causal inference* for trustworthy, safe medical diagnostics.
     * Apply VLMs to find causal biomarkers in medical images by linking them to clinical notes.
     * Use LLMs to extract causal insights from electronic health records (EHRs).
+  
+4.  Physics-Informed Causal AI
+    * Build causal models for complex physical processes, such as battery degradation or impedance spectroscopy, to discover underlying scientific mechanisms.
+    * Leverage LLMs to parse sensor logs and VLMs for visual inspection to find the true cause of abnormal events.
+    * Develop causal "digital twins" that enable counterfactual simulations for process optimization.
 
-4.  Foundations of Causal LLMs & Neuro-Symbolic AI
+5.  Foundations of Causal LLMs & Neuro-Symbolic AI
     * Investigate the *causal reasoning capabilities* (and failures) of LLMs and VLMs.
     * Develop novel *neuro-symbolic* architectures that bridge perception and logic.
     * Build models capable of *counterfactual reasoning* (*what-if* scenarios) by augmenting LLM.
@@ -42,6 +47,6 @@ Our Core Research
 We are actively growing and seeking passionate collaborators to build the future of causal AI.
 
 * Prospective Students (PhD, Master, UG): [Join us](/join-us) if you're driven to explore the *why* behind AI, not just the *what*.
-* Academic Partners: Let's collaborate on fundamental research and solve real-world challenges in [Video understanding, Document Intelligence, Healthcare](/research).
+* Academic Partners: Let's collaborate on fundamental research and solve real-world challenges in [Video understanding, Document Intelligence, Healthcare, Physics-Informed Causal AI](/research).
 
 
