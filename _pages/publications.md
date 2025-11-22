@@ -34,7 +34,7 @@ Integrated Design and Process Science</i></font>, Vol. 26, no. 2, pp. 159-181, 2
 {% details Conference %}
 <ol class=space_list>
 
-<li>Trong-Nghia Nguyen, Hong-Hai Nguyen, Ngoc Tu Vu, Tuan Anh Tran, Soo-Hyung Kim, Bo-Gun Kho and Van-Thong Huynh, <a href="https://link.springer.com/chapter/10.1007/978-981-95-4963-4_10" target="_blank">"MediFusion-Flex: An Adaptive Multimodal Deep Learning Framework for Clinical Deterioration Prediction in Emergency Medicine"</a>, <i>International Conference on Multi-disciplinary Trends in Artificial Intelligence</i>, Lecture Notes in Computer Science (Springer), vol 16355, pp. xx–xx, Dec. 2025. </li>
+<li>Trong-Nghia Nguyen, Hong-Hai Nguyen, Ngoc Tu Vu, Tuan Anh Tran, Soo-Hyung Kim, Bo-Gun Kho and Van-Thong Huynh, <a href="https://link.springer.com/chapter/10.1007/978-981-95-4963-4_10" target="_blank">"MediFusion-Flex: An Adaptive Multimodal Deep Learning Framework for Clinical Deterioration Prediction in Emergency Medicine"</a>, <i>International Conference on Multi-disciplinary Trends in Artificial Intelligence</i>, Lecture Notes in Computer Science (Springer), vol 16355, pp. 115–126, Dec. 2025. </li>
 
 <li>Phuc Thanh Danh Nguyen, Nhu Tinh Anh Nguyen, Hong Tai Tran, Van Thong Huynh, Tuan-Anh Tran and Xuan Toan Mai, <a href="https://link.springer.com/chapter/10.1007/978-981-95-3355-8_31" target="_blank">"ChartLite: Simplified End-to-End Extraction of Chart Data for Enhanced Visual Understanding"</a>, <i>International Conference on Intelligent Systems and Data Science</i>, Communications in Computer and Information Science (Springer), vol 2713, pp. 429–443, Oct. 2025. </li>
 
