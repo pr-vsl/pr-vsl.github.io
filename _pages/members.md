@@ -20,8 +20,8 @@ nav_order: 1000
 <ol class=space_list>
     <li><a href="https://hhnguyen.netlify.app" target="_blank">Nguyễn Hồng Hải</a></li>
     <li><a href="/member/" target="_blank">Nguyễn Quốc Tiến</a></li>
-    <li><a href="/member/" target="https://thithuypham.github.io">Thủy Phạm</a></li>
-    <li><a href="/member/" target="https://scholar.google.com/citations?user=HXld-VoAAAAJ">Tiến Đặng</a></li>
+    <li><a href="https://thithuypham.github.io" target="_blank">Thủy Phạm</a></li>
+    <li><a href="https://scholar.google.com/citations?user=HXld-VoAAAAJ" target="_blank">Tiến Đặng</a></li>
     <li> To be updated </li>
 </ol>
 {% enddetails %}
