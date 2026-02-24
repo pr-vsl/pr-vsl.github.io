@@ -16,19 +16,21 @@ nav_order: 1000
 </ol>
 {% enddetails %}
 
+{% details Members %}
+<ol class=space_list>
+    <li><a href="https://hhnguyen.netlify.app" target="_blank">Nguyễn Hồng Hải</a></li>
+    <li><a href="/member/" target="_blank">Nguyễn Quốc Tiến</a></li>
+    <li><a href="/member/" target="https://scholar.google.com/citations?user=QHi2OngAAAAJ">Thủy Phạm</a></li>
+    <li><a href="/member/" target="https://scholar.google.com/citations?user=HXld-VoAAAAJ">Tiến Đặng</a></li>
+    <li> To be updated </li>
+</ol>
+{% enddetails %}
+
 {% details Collaborators %}
 <ol class=space_list>
     <li><a href="https://scholar.google.com/citations?user=ynLxAv0AAAAJ&hl=en" target="_blank">Phạm Văn Cường, PhDc</a></li>
     <li><a href="https://nghianguyen7171.github.io" target="_blank">Nguyễn Trọng Nghĩa, PhD</a></li>
     <li><a href="https://scholar.google.com/citations?user=wKyLVp0AAAAJ&hl=en" target="_blank">Vũ Ngọc Tú</a></li>
-    <li> To be updated </li>
-</ol>
-{% enddetails %}
-
-{% details Members %}
-<ol class=space_list>
-    <li><a href="https://hhnguyen.netlify.app" target="_blank">Nguyễn Hồng Hải</a></li>
-    <li><a href="/member/" target="_blank">Nguyễn Quốc Tiến</a></li>
     <li> To be updated </li>
 </ol>
 {% enddetails %}
